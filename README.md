@@ -280,6 +280,7 @@
 - [Boring Notch](https://github.com/TheBoredTeam/boring.notch) - Turns your MacBook notch into a dynamic hub with media controls, calendar integration, and more. [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/burn-osx/code-git/ci/master/tree/) ![Freeware][Freeware Icon]
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts. ![Freeware][Freeware Icon]
+- [Clamshell for Mac](https://clamshell.dev/) - Menu bar app that keeps an Apple Silicon MacBook awake with the lid closed and no external display, without sudo or an admin password.
 - [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner) - Automatically removes text formatting from the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/Zuehlke/Clipboard_Cleaner) ![Freeware][Freeware Icon]
 - [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
